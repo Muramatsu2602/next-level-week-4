@@ -18,7 +18,7 @@ app.get("/", (request, response) => {
 // 1 param => Rota (recurso API)
 // 2 param => request, response
 app.post("/", (request, response) => {
-  return response.json({ message: "os dados foram salvos com sucesso" });
+  return response.json({ message: "Data was saved with no problems!" });
 });
 
 app.listen(3333, () => console.log("Server is running at port 3333"));
