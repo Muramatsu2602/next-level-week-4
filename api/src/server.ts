@@ -1,5 +1,6 @@
 import "reflect-metadata";
 import express, { response } from "express";
+import "./database"; // already pulls index.ts
 
 const app = express();
 
