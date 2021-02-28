@@ -1,4 +1,4 @@
-# Next Level Week 4
+# Next Level Week 4 🚀🚀
 Next Level Week is a  1-week web development bootcamp offered organized by Brazilian startup @rocketseat. 
 
 # The Project
